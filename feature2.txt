@@ -1,1 +1,2 @@
 Hello I am from feature2 branch.
+Hello world.
